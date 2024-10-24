@@ -1,2 +1,1 @@
-repository sistem informasi pelaporan rambu disini ada frontend,backend, dan jg database. 
-sdfsfsfsfsfsfsfsfs
+REPOSITORY PROJEK SISTEM INFORMASI PELAPORAN RAMBU BENCANA BERBASIS WEB MENGGUNAKAN REACT VITE JS, POSTRESQL, JAVASCRIPT NODE JS. 
