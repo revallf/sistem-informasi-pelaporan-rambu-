@@ -1,0 +1,71 @@
+/* General styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Navbar */
+  .navbar {
+    background-color: #0f35a6;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    font-size: 64px; 
+    font-weight: bold;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+  }
+  
+  .navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  
+  .navbar .logo {
+    font-size: 1.5rem;
+    margin-right: 250px;
+    padding-top: 0px;
+    height: 90px;
+    margin-left: -320px;
+  }
+  
+  .navbar .nav-links {
+    list-style: none;
+    display: flex;
+  }
+  
+  .navbar .nav-links li {
+    margin-left: 1rem;
+  }
+  
+  .navbar .nav-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+  }
+  
+  .navbar .nav-links a:hover {
+    color: #f0a500;
+  }
+  
+  /* Carousel Section */
+  .carousel-section {
+    margin-top: 0rem;
+    margin-right: 0rem;
+  }
+  
+  .carousel img {
+    height: 600px;
+    object-fit: cover;
+  }
+  
