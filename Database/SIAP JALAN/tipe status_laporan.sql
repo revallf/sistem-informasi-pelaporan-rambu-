@@ -1,0 +1,1 @@
+CREATE TYPE status_laporan_type AS ENUM ('verifikasi', 'tindak_lanjut', 'selesai');

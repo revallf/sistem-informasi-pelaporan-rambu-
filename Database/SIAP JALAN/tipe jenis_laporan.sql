@@ -1,0 +1,1 @@
+CREATE TYPE jenis_laporan_type AS ENUM ('usulan', 'perbaikan');
