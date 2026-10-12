@@ -1,1 +1,1 @@
-REPOSITORY PROJEK SISTEM INFORMASI PELAPORAN RAMBU BENCANA BERBASIS WEB MENGGUNAKAN REACT VITE JS, POSTRESQL, JAVASCRIPT LARAVEL 11. 
+Sistem ini dirancang untuk mendata, memetakan, dan melaporkan kondisi rambu-rambu evakuasi serta infrastruktur mitigasi bencana secara digital. Aplikasi ini bertujuan untuk membantu mempercepat proses monitoring, pelaporan kerusakan, dan pengambilan keputusan darurat oleh instansi terkait.
